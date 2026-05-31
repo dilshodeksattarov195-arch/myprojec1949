@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacherarse",
+        "uuid": 3915541,
+        "checksum": "immrr9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
